@@ -3,5 +3,5 @@ After you have deployed a new demonstration environment for Dynamics 365 you hav
 
 ## Contents
 
-1. [Configuring Lifecycle Services](#1.0.1-ConfiguringLifecycleServices)
+1. [Configuring Lifecycle Services](1.0.1-ConfiguringLifecycleServices.md)
 

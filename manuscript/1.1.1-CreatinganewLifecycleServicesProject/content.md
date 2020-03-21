@@ -8,7 +8,7 @@ We will start off by opening the Lifecycle Services portal.
 The Lifecycle Service portal landing page will allow us to log into our Lifecycle Services environment.
 To do this we will open a browser and navigate to http://lcs.dynamics.com.
 
-![The Lifecycle Service portal landing page will allow us to log into our Lifecycle Services environment.](image_1.png)
+![The Lifecycle Service portal landing page will allow us to log into our Lifecycle Services environment.](resources/image_1.png)
 
 ### Step 2: Click on the + button
 Now that we have accessed the Lifecycle Services (LCS) portal we will see any projects that we have already created, and any projects that we have been invited to join within the Projects section.  We will also see tiles to the right that give us access to tools that we will be able to use to manage our LCS projects.

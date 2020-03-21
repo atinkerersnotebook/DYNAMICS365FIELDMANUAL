@@ -1,0 +1,8 @@
+﻿# [Introduction](docs/1-Introduction.md)
+## [Configuring Lifecycle Services](docs/1.1-ConfiguringLifecycleServices.md)
+* [Creating a new Lifecycle Services Project](docs/1.1.1-CreatinganewLifecycleServicesProject.md)
+* [Configuring SharePoint Integration for Lifecycle Services](docs/1.1.2-ConfiguringSharePointIntegrationforLifecycleServices.md)
+* [Configuring Lifecycle Services Visual Studio Integration](docs/1.1.3-ConfiguringLifecycleServicesVisualStudioIntegration.md)
+* [Dismissing the Getting Started reminders](docs/1.1.4-DismissingtheGettingStartedreminders.md)
+* [Configuring the Business Process Models within Lifecycle Services](docs/1.1.5-ConfiguringtheBusinessProcessModelswithinLifecycleServices.md)
+* [Review](docs/1.1.6-Review.md)

@@ -1,3 +1,0 @@
-﻿# Configuring the User Accounts
-When we get a newly provisioned version of the Dynamics 365 demo environment, there are a lot of examples that we can use out of the box including a whole organizational structure of users and employees that we can play with.But the users and the user defaults need to be polished up a little because they are linked to the demo Contoso company and we will be using our own tenant with its own email addresses and user accounts.So the first area that we will look at tweaking will be the user accounts and also some of the defaults that are not automatically configured through the provisioning process.
-

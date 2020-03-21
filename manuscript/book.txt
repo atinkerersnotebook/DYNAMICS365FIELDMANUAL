@@ -1,4 +1,8 @@
-1-Introduction/content.md
-1.1-ConfiguringLifecycleServices/content.md
-1.1.1-CreatinganewLifecycleServicesProject/content.md
-1.1.2-ConfiguringSharePointIntegrationforLifecycleServices/content.md
+1-Introduction.md
+1.1-ConfiguringLifecycleServices.md
+1.1.1-CreatinganewLifecycleServicesProject.md
+1.1.2-ConfiguringSharePointIntegrationforLifecycleServices.md
+1.1.3-ConfiguringLifecycleServicesVisualStudioIntegration.md
+1.1.4-DismissingtheGettingStartedreminders.md
+1.1.5-ConfiguringtheBusinessProcessModelswithinLifecycleServices.md
+1.1.6-Review.md
